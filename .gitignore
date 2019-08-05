@@ -4,7 +4,8 @@ __pycache__/
 *$py.class
 
 # C extensions
-*.so
+# Yup we want this to be in :(
+# *.so
 
 # Distribution / packaging
 .Python
